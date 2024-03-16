@@ -98,3 +98,11 @@ hr {
     color: #854632;
     font-weight: 700;
 }
+
+.informacoes p {
+    margin-bottom: 24px;
+}
+
+th, td {
+    border-bottom: 1px soid #E3DDD7;
+}
